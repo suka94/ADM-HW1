@@ -8,4 +8,4 @@ Jupyter notebook for the exercises done (Exercise 1 & 2)
 
 # stamps:
 
-contains the list of screenshot that assess the successful exercises done.
+Contains the list of screenshot that assess the successful exercises done.
